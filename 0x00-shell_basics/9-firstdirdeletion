@@ -1,2 +1,2 @@
 #!/bin/bash
-rm /tmp/holberton/my_first_directory
+rm /tmp/myfirst_directory
